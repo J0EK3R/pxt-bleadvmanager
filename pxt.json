@@ -1,6 +1,6 @@
 {
     "name": "BleAdvertisingManager",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "description": "BleAdvertisingManager",
     "license": "MIT",
     "dependencies": {
