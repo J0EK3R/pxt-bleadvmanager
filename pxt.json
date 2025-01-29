@@ -17,11 +17,13 @@
     "public": true,
     "targetVersions": {
         "target": "7.0.57",
-        "pxt": "11.1.13"
+        "pxt": "11.1.13",
+        "targetId": "microbit"
     },
     "supportedTargets": [
         "microbit"
     ],
+    "preferredEditor": "tsprj",
     "disablesVariants": [
         "mbdal"
     ]
