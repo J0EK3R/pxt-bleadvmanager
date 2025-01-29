@@ -1,0 +1,28 @@
+{
+    "name": "BleAdvertisingManager",
+    "version": "0.0.1",
+    "description": "BleAdvertisingManager",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "inc/BLEAdvManager.h",
+        "inc/IBLEAdvClient.h",
+        "inc/CryptTool.h",
+        "source/BLEAdvManager.cpp",
+        "source/CryptTool.cpp"
+    ],
+    "public": true,
+    "targetVersions": {
+        "target": "7.0.57",
+        "pxt": "11.1.13"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "disablesVariants": [
+        "mbdal"
+    ]
+}
